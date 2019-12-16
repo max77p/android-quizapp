@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">mainProjectAndroidShan</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/13</string>
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">If you delete constraints in xml for a button,\ it will push the button to top left in constraint layout</string>
+    <string name="question_2">In constraint layout you can use match_parent</string>
+    <string name="question_3">In constraint layout, changing to chevron in design view will not shrink the item to size of its contents</string>
+    <string name="question_4">Content description attribute is used for accessibility</string>
+    <string name="question_5">ConstraintStart means right edge of view if its on the left side to another view</string>
+    <string name="question_6">Constraint guideline cannot be set in percentage</string>
+    <string name="question_7">It is illegal to pee in the Ocean in Portugal.</string>
+    <string name="question_8">You must exit the design view to create a landscape variation of your landscape layout</string>
+    <string name="question_9">Edit translations for all locales in translation editor WILL NOT create separate strings.xml for language of choice</string>
+    <string name="question_10">Bias tells Android what the proportionate length of the constraint should be on either side of the view.</string>
+    <string name="question_11">In Linear layout, vertically means, the views are displayed in a single column</string>
+    <string name="question_12">In linear layout, you do not need to add views to the layout in the order in which you want them to appear</string>
+    <string name="question_13">Java has properties as well as getters and setters</string>false
+    <string name="question_14">When having multiple gravities, add them up and calculate % of the total to space them out</string>false
+    <string name="question_15">The onCreateView() is optional but mandatory when creating fragment with a layout</string>true
+    <string name="question_16">You can use weight on views to overlay text on an image</string>false
+    <string name="question_17">In frame layout, the first view you add is displayed on bottom of stack</string>true
+    <string name="question_18">Fragments can be shared between layouts</string>true
+
+
+
+
+
+
+
+    <string name="start">Start Game</string>
+    <string name="nameField">Enter your name</string>
+</resources>
